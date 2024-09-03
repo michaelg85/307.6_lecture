@@ -1,0 +1,13 @@
+* {
+    background-color: lightblue;
+}
+
+.table {
+    border: 5px ridge purple;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
